@@ -1,0 +1,64 @@
+/* common */
+
+.common-color {
+    color: #BABABA;
+}
+
+.buttonall-color {
+    background-image: linear-gradient(60deg, #FF589B, #FF136F);
+}
+
+.all-text-color {
+    color: #FF136F;
+}
+
+.top-items {
+    color: #707070;
+}
+
+.top-section-color {
+    background-color: #FEEAE9;
+}
+
+.b-redius {
+    border-radius: 30px;
+}
+
+
+/*  */
+
+.shows-gradient {
+    background-image: linear-gradient(90deg, #4289FF, #3F07F8);
+}
+
+.bag-gradient {
+    background-image: linear-gradient(90deg, #FF589B, #FF136F);
+}
+
+.watch-gradient {
+    background-image: linear-gradient(90deg, #FF9C35, #FFD019);
+}
+
+.catagori-radius {
+    border-radius: 20px;
+}
+
+.catagori-margin {
+    margin-bottom: 80px;
+}
+
+
+/* 
+ */
+
+.body-color {
+    background-color: #F4F4F4;
+}
+
+.card-border-radius {
+    border-radius: 20px;
+}
+
+.last-section-padding {
+    padding: 100px 0px;
+}
